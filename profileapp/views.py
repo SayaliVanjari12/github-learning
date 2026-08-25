@@ -2,4 +2,4 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse("Hello from Git Learning!")
+    return HttpResponse("Welcome to the Git Learning App!")
